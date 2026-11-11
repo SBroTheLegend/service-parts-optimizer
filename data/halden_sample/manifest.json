@@ -1,0 +1,13 @@
+{
+  "name": "halden_sample",
+  "fictional": true,
+  "network": "Halden Field Service",
+  "description": "Synthetic service-parts catalog for a fictional industrial field-service network. Part numbers, regions, costs, lead times, and demand are generated. No real operator, supplier, or customer is represented.",
+  "seed": 42,
+  "parts": 200,
+  "weeks": 156,
+  "weeks_per_year": 52,
+  "generator": "service_parts.data.generate",
+  "version": "0.3.0",
+  "author": "SBroTheLegend"
+}

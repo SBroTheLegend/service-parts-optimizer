@@ -1,0 +1,201 @@
+part_id,part_number,description,commodity,criticality,primary_region,unit_cost,order_cost,moq,weekly_demand_mean,weekly_demand_std,lead_time_weeks_mean,lead_time_weeks_std,demand_pattern
+P0001,HFS-HYD-1000,"Charge-pump rotor 32, threaded",hydraulics,line_down,Interior Plain,1738.120000,110.690000,1,0.835064,2.031076,4.008000,0.530300,intermittent
+P0002,HFS-HYD-1001,"Valve spool 32, low pressure",hydraulics,convenience,Interior Plain,574.380000,132.400000,1,11.979106,3.584441,7.064800,1.496400,smooth
+P0003,HFS-CTL-1002,"Encoder 63, high flow",controls,degraded,North Basin,832.040000,153.490000,1,1.578313,1.435584,10.729100,1.678000,erratic
+P0004,HFS-PWR-1003,"Power supply 20, field kit",power,degraded,North Basin,393.610000,114.760000,1,6.775102,2.023116,6.439200,0.579900,smooth
+P0005,HFS-HYD-1004,"Charge-pump rotor 63, flanged",hydraulics,line_down,North Basin,766.970000,131.030000,5,1.245929,0.152236,6.923300,1.286700,smooth
+P0006,HFS-ROT-1005,"Bearing set 40, short body",rotating,degraded,North Basin,138.330000,69.930000,1,3.872746,0.590105,5.869200,0.904200,smooth
+P0007,HFS-FLT-1006,"Breather 80, high flow",filtration,degraded,Coast Range,39.820000,121.700000,5,6.960782,1.295148,2.654100,0.433900,smooth
+P0008,HFS-CTL-1007,"Encoder 20, sealed",controls,degraded,Interior Plain,521.980000,123.490000,1,0.641381,1.121584,9.006600,1.487300,intermittent
+P0009,HFS-ROT-1008,"Shaft sleeve 32, low pressure",rotating,convenience,Coast Range,245.460000,134.220000,1,1.197210,1.065724,7.583400,1.173200,erratic
+P0010,HFS-FLT-1009,"Separator element 40, threaded",filtration,convenience,North Basin,13.030000,138.370000,1,5.564783,1.009676,1.481800,0.183000,smooth
+P0011,HFS-PWR-1010,"Capacitor module 80, sealed",power,line_down,Coast Range,392.030000,119.280000,1,2.153114,0.304113,11.706400,2.059700,smooth
+P0012,HFS-ROT-1011,"Impeller 50, low pressure",rotating,degraded,Interior Plain,315.980000,113.350000,1,0.639251,1.539202,5.934100,0.505700,intermittent
+P0013,HFS-CTL-1012,"Wire harness 50, flanged",controls,convenience,Interior Plain,1976.000000,95.000000,1,0.824753,0.583610,12.484300,1.466100,erratic
+P0014,HFS-ROT-1013,"Coupling insert 80, threaded",rotating,line_down,Coast Range,124.400000,138.040000,1,3.941555,1.069541,7.639300,0.833800,smooth
+P0015,HFS-HYD-1014,"Pump cartridge 80, high flow",hydraulics,degraded,North Basin,278.160000,78.710000,1,1.361169,0.768590,3.249500,0.394500,erratic
+P0016,HFS-CTL-1015,"Wire harness 80, high flow",controls,line_down,Interior Plain,995.770000,69.070000,1,0.000000,0.000000,6.614900,1.038200,inactive
+P0017,HFS-ROT-1016,"Wear ring 40, threaded",rotating,line_down,Interior Plain,168.350000,157.250000,1,0.000000,0.000000,6.303100,1.355500,inactive
+P0018,HFS-CTL-1017,"I/O module 40, threaded",controls,line_down,Interior Plain,1590.820000,73.730000,1,4.074792,1.049788,11.360900,1.639100,smooth
+P0019,HFS-SEN-1018,"Flow sensor 20, threaded",sensors,degraded,Interior Plain,300.940000,109.980000,5,1.446062,1.186213,5.977700,1.046600,erratic
+P0020,HFS-ROT-1019,"Bearing set 40, short body",rotating,line_down,Coast Range,288.560000,139.920000,1,3.481623,0.717133,5.731200,1.180600,smooth
+P0021,HFS-ROT-1020,"Shaft sleeve 20, short body",rotating,line_down,Coast Range,165.620000,65.750000,1,1.506751,1.175987,7.451600,1.128600,erratic
+P0022,HFS-PWR-1021,"Capacitor module 32, low pressure",power,line_down,Interior Plain,560.810000,86.340000,1,1.828996,3.495474,10.075400,0.810800,intermittent
+P0023,HFS-HYD-1022,"Hose assembly 50, long body",hydraulics,convenience,North Basin,1289.850000,83.570000,1,0.799564,1.394664,3.450800,0.690100,intermittent
+P0024,HFS-FLT-1023,"Return filter 80, sealed",filtration,line_down,Coast Range,24.230000,136.060000,5,2.842276,2.220012,2.319200,0.435800,erratic
+P0025,HFS-CTL-1024,"Wire harness 50, high flow",controls,degraded,Coast Range,435.280000,158.960000,1,0.574034,0.932813,10.070900,1.138300,intermittent
+P0026,HFS-PWR-1025,"Braking resistor 40, flanged",power,line_down,Coast Range,340.200000,60.570000,1,0.794200,1.191915,9.449000,1.321000,intermittent
+P0027,HFS-SEN-1026,"Temperature probe 32, long body",sensors,convenience,Interior Plain,200.930000,148.950000,1,3.530414,0.793506,5.656800,1.244200,smooth
+P0028,HFS-FLT-1027,"Pressure filter 80, threaded",filtration,convenience,Coast Range,83.210000,154.390000,5,0.000000,0.000000,2.315200,0.469200,inactive
+P0029,HFS-SEN-1028,"Proximity sensor 50, sealed",sensors,line_down,Interior Plain,153.240000,100.090000,1,4.269657,3.015713,7.570400,1.017400,erratic
+P0030,HFS-CTL-1029,"Relay board 80, threaded",controls,degraded,Coast Range,886.750000,123.260000,1,0.445738,0.976309,10.693600,2.193100,intermittent
+P0031,HFS-PWR-1030,"Braking resistor 80, long body",power,degraded,North Basin,867.110000,46.000000,1,3.013516,0.607293,9.229900,1.244500,smooth
+P0032,HFS-CTL-1031,"Display unit 50, short body",controls,degraded,Coast Range,408.120000,59.630000,1,4.709428,1.044849,8.729400,1.236100,smooth
+P0033,HFS-SEN-1032,"Flow sensor 80, short body",sensors,line_down,Interior Plain,112.370000,73.170000,1,2.102016,1.760129,9.249000,1.196400,erratic
+P0034,HFS-ROT-1033,"Impeller 63, high flow",rotating,line_down,Coast Range,318.540000,74.390000,1,3.979069,1.147117,6.787300,1.479800,smooth
+P0035,HFS-ROT-1034,"Coupling insert 40, sealed",rotating,convenience,North Basin,745.870000,62.190000,4,6.444510,1.037445,5.958400,1.269000,smooth
+P0036,HFS-SEN-1035,"Flow sensor 50, sealed",sensors,degraded,Coast Range,193.080000,73.760000,1,1.023598,0.621571,5.914300,0.990900,erratic
+P0037,HFS-SEN-1036,"Pressure transducer 80, high flow",sensors,convenience,Interior Plain,91.410000,95.270000,1,0.353941,0.594467,9.489000,1.649800,intermittent
+P0038,HFS-HYD-1037,"Hose assembly 32, threaded",hydraulics,line_down,North Basin,366.120000,71.790000,2,0.744895,0.453788,6.017100,0.634800,erratic
+P0039,HFS-SEN-1038,"Pressure transducer 63, sealed",sensors,convenience,Interior Plain,177.430000,45.410000,1,1.771812,2.947228,9.643200,0.869800,intermittent
+P0040,HFS-ROT-1039,"Impeller 20, field kit",rotating,degraded,Coast Range,182.620000,115.150000,1,0.572614,0.524285,8.832200,1.026000,erratic
+P0041,HFS-HYD-1040,"Pump cartridge 50, high flow",hydraulics,convenience,North Basin,387.240000,150.180000,1,0.685281,1.479130,4.802000,1.000700,intermittent
+P0042,HFS-HYD-1041,"Valve spool 63, long body",hydraulics,line_down,North Basin,159.790000,81.740000,1,7.195087,1.154390,7.118100,0.680500,smooth
+P0043,HFS-HYD-1042,"Cylinder seal kit 63, field kit",hydraulics,degraded,Coast Range,327.130000,151.580000,1,13.413668,3.249019,2.983300,0.276700,smooth
+P0044,HFS-CTL-1043,"Wire harness 50, long body",controls,line_down,North Basin,827.000000,45.920000,1,3.144990,0.796066,11.476300,0.991400,smooth
+P0045,HFS-CTL-1044,"Display unit 80, field kit",controls,degraded,Coast Range,1190.650000,156.300000,1,1.048008,1.939478,10.542100,1.849700,intermittent
+P0046,HFS-ROT-1045,"Coupling insert 63, high flow",rotating,degraded,Coast Range,80.170000,139.200000,1,1.759726,0.420633,8.737700,1.775300,smooth
+P0047,HFS-ROT-1046,"Wear ring 20, long body",rotating,degraded,North Basin,117.150000,104.850000,1,0.594722,0.391960,7.570700,0.894700,erratic
+P0048,HFS-ROT-1047,"Coupling insert 80, threaded",rotating,degraded,Coast Range,66.550000,134.690000,1,7.013448,1.583097,3.741800,0.532700,smooth
+P0049,HFS-ROT-1048,"Bearing set 50, long body",rotating,line_down,Interior Plain,350.130000,52.330000,1,3.908583,0.966897,8.045200,1.587000,smooth
+P0050,HFS-FLT-1049,"Pressure filter 80, sealed",filtration,convenience,Interior Plain,17.830000,146.140000,5,4.619569,0.719134,2.409800,0.269200,smooth
+P0051,HFS-ROT-1050,"Shaft sleeve 50, high flow",rotating,degraded,Coast Range,225.110000,88.980000,1,2.626754,0.429743,5.727700,0.480600,smooth
+P0052,HFS-FLT-1051,"Separator element 32, low pressure",filtration,convenience,Coast Range,41.490000,80.060000,1,0.990803,0.846105,2.424300,0.231600,erratic
+P0053,HFS-CTL-1052,"Wire harness 80, field kit",controls,degraded,North Basin,264.010000,133.710000,1,6.070080,1.843574,10.851700,1.659100,smooth
+P0054,HFS-ROT-1053,"Wear ring 80, long body",rotating,line_down,North Basin,266.550000,56.910000,1,4.768910,0.922601,11.339000,1.281000,smooth
+P0055,HFS-HYD-1054,"Pump cartridge 50, long body",hydraulics,degraded,Coast Range,323.460000,97.900000,1,0.779126,0.573349,3.214300,0.552600,erratic
+P0056,HFS-PWR-1055,"Braking resistor 63, short body",power,line_down,Interior Plain,449.770000,91.260000,1,1.654374,1.277327,5.862100,0.863200,erratic
+P0057,HFS-CTL-1056,"Relay board 50, flanged",controls,degraded,North Basin,1361.630000,123.380000,1,0.340443,0.508453,11.309800,2.277800,intermittent
+P0058,HFS-SEN-1057,"Temperature probe 32, high flow",sensors,line_down,Interior Plain,105.830000,61.970000,2,1.259001,0.725168,4.969300,0.970000,erratic
+P0059,HFS-SEN-1058,"Pressure transducer 40, long body",sensors,line_down,North Basin,178.200000,152.350000,1,3.404996,0.716383,6.160900,1.209600,smooth
+P0060,HFS-SEN-1059,"Level switch 40, short body",sensors,degraded,Coast Range,156.980000,70.340000,1,3.539483,1.035717,4.715300,0.613200,smooth
+P0061,HFS-FLT-1060,"Return filter 80, low pressure",filtration,convenience,Interior Plain,28.220000,124.450000,5,2.237891,0.571989,2.349700,0.240800,smooth
+P0062,HFS-SEN-1061,"Proximity sensor 80, short body",sensors,line_down,Interior Plain,151.450000,133.260000,1,9.416506,1.196966,5.686100,0.761500,smooth
+P0063,HFS-PWR-1062,"Capacitor module 63, threaded",power,degraded,Coast Range,110.020000,50.750000,1,1.001995,0.688331,6.663500,1.153700,erratic
+P0064,HFS-FLT-1063,"Breather 32, flanged",filtration,degraded,Interior Plain,30.490000,107.810000,12,4.954235,0.966347,1.366300,0.187600,smooth
+P0065,HFS-ROT-1064,"Coupling insert 20, short body",rotating,line_down,North Basin,109.240000,136.540000,1,9.671936,2.570836,4.592300,0.927600,smooth
+P0066,HFS-CTL-1065,"I/O module 20, short body",controls,degraded,Interior Plain,461.160000,109.010000,1,1.036389,0.933148,7.725000,1.161000,erratic
+P0067,HFS-SEN-1066,"Level switch 40, high flow",sensors,line_down,Interior Plain,556.950000,149.250000,1,1.923853,0.421096,7.865900,0.650100,smooth
+P0068,HFS-PWR-1067,"Capacitor module 40, long body",power,degraded,Interior Plain,309.920000,140.140000,1,4.812819,0.732648,10.149900,1.956000,smooth
+P0069,HFS-PWR-1068,"Drive cooling fan 63, sealed",power,line_down,Coast Range,1355.120000,138.330000,1,5.372668,1.010642,12.542500,1.542600,smooth
+P0070,HFS-SEN-1069,"Temperature probe 20, long body",sensors,line_down,Interior Plain,101.800000,82.890000,1,5.361276,0.672412,8.112400,1.094800,smooth
+P0071,HFS-HYD-1070,"Hose assembly 40, low pressure",hydraulics,convenience,Coast Range,1606.590000,143.980000,1,0.544270,1.344579,4.854600,0.477700,intermittent
+P0072,HFS-CTL-1071,"I/O module 40, sealed",controls,line_down,North Basin,1430.960000,103.640000,1,8.805524,1.673229,8.825500,0.813900,smooth
+P0073,HFS-HYD-1072,"Hose assembly 80, long body",hydraulics,degraded,North Basin,919.400000,55.220000,1,3.343775,1.843508,6.058900,0.732900,erratic
+P0074,HFS-ROT-1073,"Wear ring 80, high flow",rotating,convenience,Coast Range,61.850000,60.990000,1,1.488608,1.179980,5.579100,1.175600,erratic
+P0075,HFS-HYD-1074,"Pump cartridge 63, field kit",hydraulics,degraded,Interior Plain,232.110000,113.780000,1,2.236742,0.643418,5.060300,0.913400,smooth
+P0076,HFS-HYD-1075,"Hose assembly 40, high flow",hydraulics,degraded,Interior Plain,284.900000,141.190000,2,0.000000,0.000000,2.900300,0.396600,inactive
+P0077,HFS-CTL-1076,"Wire harness 20, short body",controls,degraded,North Basin,125.540000,121.650000,2,2.465838,0.764312,9.655700,1.260600,smooth
+P0078,HFS-SEN-1077,"Level switch 32, short body",sensors,line_down,North Basin,121.730000,117.020000,1,10.457706,1.606689,10.287100,1.187100,smooth
+P0079,HFS-FLT-1078,"Separator element 20, long body",filtration,line_down,Interior Plain,42.870000,46.570000,1,0.829909,0.727585,1.297900,0.104800,erratic
+P0080,HFS-CTL-1079,"I/O module 20, low pressure",controls,convenience,North Basin,4540.020000,96.380000,1,1.521627,0.337774,8.594100,0.942600,smooth
+P0081,HFS-ROT-1080,"Impeller 32, sealed",rotating,line_down,North Basin,266.980000,74.000000,1,4.152432,1.163498,6.219200,0.778100,smooth
+P0082,HFS-FLT-1081,"Return filter 80, threaded",filtration,degraded,Interior Plain,16.240000,85.120000,1,1.722379,1.430856,2.251900,0.426800,erratic
+P0083,HFS-FLT-1082,"Separator element 80, long body",filtration,convenience,North Basin,31.170000,134.660000,10,0.395904,0.833684,2.428500,0.452100,intermittent
+P0084,HFS-HYD-1083,"Charge-pump rotor 63, field kit",hydraulics,line_down,Interior Plain,760.240000,88.150000,1,0.634927,1.591119,4.382300,0.636700,intermittent
+P0085,HFS-HYD-1084,"Valve spool 63, sealed",hydraulics,line_down,North Basin,420.220000,134.100000,1,6.309622,1.240053,4.850900,1.043200,smooth
+P0086,HFS-FLT-1085,"Strainer basket 80, short body",filtration,line_down,Coast Range,11.630000,126.710000,10,0.992772,1.477123,2.166200,0.349300,intermittent
+P0087,HFS-FLT-1086,"Pressure filter 80, flanged",filtration,convenience,Coast Range,10.100000,139.420000,1,2.128590,1.379098,1.914500,0.256400,erratic
+P0088,HFS-FLT-1087,"Pressure filter 63, high flow",filtration,convenience,North Basin,62.320000,75.480000,1,3.540235,0.995900,2.182000,0.384200,smooth
+P0089,HFS-SEN-1088,"Proximity sensor 50, sealed",sensors,degraded,Interior Plain,97.520000,95.300000,1,3.569056,0.930632,8.160200,1.586000,smooth
+P0090,HFS-PWR-1089,"Contactor 32, sealed",power,line_down,North Basin,317.380000,88.100000,1,1.109043,0.837664,8.652400,0.786800,erratic
+P0091,HFS-CTL-1090,"I/O module 63, short body",controls,degraded,Coast Range,444.620000,57.250000,1,2.782010,0.339580,8.696300,1.602400,smooth
+P0092,HFS-CTL-1091,"Display unit 40, long body",controls,line_down,Interior Plain,3214.760000,87.870000,1,0.395599,0.595480,9.153300,1.615300,intermittent
+P0093,HFS-SEN-1092,"Flow sensor 63, threaded",sensors,line_down,Coast Range,308.050000,132.330000,1,2.555238,1.663041,7.304200,1.519200,erratic
+P0094,HFS-HYD-1093,"Valve spool 80, long body",hydraulics,degraded,Interior Plain,407.580000,121.630000,1,2.246282,1.251307,6.196200,1.212600,erratic
+P0095,HFS-CTL-1094,"Display unit 32, high flow",controls,degraded,North Basin,594.900000,75.730000,1,1.487805,1.330891,15.350800,1.819300,erratic
+P0096,HFS-HYD-1095,"Valve spool 20, long body",hydraulics,degraded,Coast Range,282.310000,52.950000,1,0.000000,0.000000,5.504600,0.622200,inactive
+P0097,HFS-CTL-1096,"Display unit 80, flanged",controls,line_down,Coast Range,4563.690000,64.540000,1,3.092180,2.791474,14.000400,1.838400,erratic
+P0098,HFS-SEN-1097,"Proximity sensor 32, long body",sensors,degraded,North Basin,120.350000,157.700000,1,1.388388,1.308191,10.964500,1.546300,erratic
+P0099,HFS-ROT-1098,"Wear ring 80, short body",rotating,degraded,Interior Plain,42.270000,45.080000,1,1.986004,1.339598,4.382900,0.757800,erratic
+P0100,HFS-ROT-1099,"Shaft sleeve 50, sealed",rotating,convenience,North Basin,227.190000,74.930000,1,0.724292,1.463818,7.309500,1.368600,intermittent
+P0101,HFS-ROT-1100,"Wear ring 50, short body",rotating,convenience,Coast Range,52.980000,95.050000,1,0.000000,0.000000,8.090100,1.729300,inactive
+P0102,HFS-PWR-1101,"Braking resistor 80, low pressure",power,line_down,North Basin,111.730000,112.040000,1,2.699171,0.414037,9.193700,1.933500,smooth
+P0103,HFS-FLT-1102,"Separator element 50, short body",filtration,degraded,North Basin,96.740000,50.790000,10,8.239196,1.150204,2.507800,0.501000,smooth
+P0104,HFS-FLT-1103,"Return filter 80, short body",filtration,convenience,Coast Range,14.360000,74.820000,5,4.237875,2.792191,2.118800,0.438900,erratic
+P0105,HFS-HYD-1104,"Charge-pump rotor 50, flanged",hydraulics,line_down,North Basin,403.590000,79.050000,1,3.511979,2.039292,5.078400,0.780000,erratic
+P0106,HFS-CTL-1105,"Wire harness 40, high flow",controls,line_down,North Basin,5985.810000,90.800000,1,2.543260,0.551948,6.187600,1.240200,smooth
+P0107,HFS-SEN-1106,"Pressure transducer 63, sealed",sensors,degraded,Coast Range,89.020000,97.010000,1,0.000000,0.000000,8.498500,1.795900,inactive
+P0108,HFS-CTL-1107,"I/O module 20, low pressure",controls,convenience,Interior Plain,692.850000,88.430000,1,4.085096,1.139292,11.684200,2.383400,smooth
+P0109,HFS-ROT-1108,"Wear ring 40, flanged",rotating,line_down,Interior Plain,97.790000,109.500000,1,1.952989,3.266719,4.541900,0.531800,intermittent
+P0110,HFS-HYD-1109,"Cylinder seal kit 40, flanged",hydraulics,line_down,Coast Range,374.370000,67.130000,1,5.342045,4.666247,4.708900,0.696200,erratic
+P0111,HFS-FLT-1110,"Breather 63, high flow",filtration,convenience,Coast Range,22.030000,154.470000,1,1.166137,1.832681,1.742300,0.188800,intermittent
+P0112,HFS-HYD-1111,"Pump cartridge 32, flanged",hydraulics,degraded,Interior Plain,210.390000,51.660000,1,3.509992,0.862706,8.096600,1.663500,smooth
+P0113,HFS-HYD-1112,"Cylinder seal kit 20, sealed",hydraulics,convenience,Coast Range,359.910000,117.400000,1,0.000000,0.000000,5.827300,1.241100,inactive
+P0114,HFS-PWR-1113,"Braking resistor 63, sealed",power,degraded,Interior Plain,179.930000,116.120000,1,0.555541,0.461741,9.185600,1.708100,erratic
+P0115,HFS-HYD-1114,"Pump cartridge 20, flanged",hydraulics,convenience,Coast Range,289.440000,71.060000,1,2.177751,1.514376,7.830600,1.524900,erratic
+P0116,HFS-HYD-1115,"Hose assembly 80, long body",hydraulics,degraded,North Basin,491.800000,113.820000,5,0.726056,0.450361,3.737600,0.317700,erratic
+P0117,HFS-PWR-1116,"Drive cooling fan 32, threaded",power,line_down,Coast Range,869.460000,149.660000,1,5.062364,1.619036,8.873800,1.087800,smooth
+P0118,HFS-HYD-1117,"Cylinder seal kit 50, threaded",hydraulics,convenience,Coast Range,566.740000,77.890000,1,0.346350,0.316087,6.207700,1.220900,erratic
+P0119,HFS-PWR-1118,"Capacitor module 50, flanged",power,line_down,North Basin,618.380000,137.920000,1,5.714571,1.400640,13.297000,2.919700,smooth
+P0120,HFS-CTL-1119,"I/O module 80, short body",controls,line_down,Coast Range,784.050000,106.330000,1,0.438833,0.878485,7.991300,1.007300,intermittent
+P0121,HFS-CTL-1120,"I/O module 32, field kit",controls,convenience,North Basin,482.280000,135.530000,1,1.759750,1.481528,13.452400,1.620500,erratic
+P0122,HFS-FLT-1121,"Separator element 80, short body",filtration,convenience,Interior Plain,31.640000,133.160000,1,2.817383,1.954954,1.672500,0.244400,erratic
+P0123,HFS-FLT-1122,"Strainer basket 63, sealed",filtration,line_down,Interior Plain,56.590000,112.090000,5,1.413758,0.276277,1.930200,0.279300,smooth
+P0124,HFS-PWR-1123,"Capacitor module 80, sealed",power,line_down,Interior Plain,521.590000,159.340000,1,0.648392,1.137129,8.320800,0.796000,intermittent
+P0125,HFS-SEN-1124,"Level switch 80, field kit",sensors,degraded,North Basin,194.030000,156.210000,1,14.318626,2.249311,5.352100,0.952800,smooth
+P0126,HFS-HYD-1125,"Charge-pump rotor 20, short body",hydraulics,degraded,Coast Range,433.250000,105.810000,1,1.848929,0.418542,3.575800,0.374900,smooth
+P0127,HFS-CTL-1126,"I/O module 32, low pressure",controls,line_down,Coast Range,473.380000,46.020000,4,0.179109,0.331541,10.122300,1.715900,intermittent
+P0128,HFS-PWR-1127,"Braking resistor 20, field kit",power,degraded,North Basin,535.510000,50.940000,1,0.883322,0.578606,5.434200,1.163000,erratic
+P0129,HFS-HYD-1128,"Valve spool 40, short body",hydraulics,degraded,Coast Range,462.810000,77.570000,1,2.813995,0.596406,4.154800,0.744800,smooth
+P0130,HFS-HYD-1129,"Valve spool 40, sealed",hydraulics,degraded,Interior Plain,444.470000,47.240000,1,0.825790,1.743469,6.154600,0.994900,intermittent
+P0131,HFS-HYD-1130,"Valve spool 50, field kit",hydraulics,convenience,Coast Range,401.000000,114.560000,1,0.521594,0.445702,7.238900,0.776500,erratic
+P0132,HFS-FLT-1131,"Breather 40, sealed",filtration,degraded,Coast Range,25.140000,100.250000,5,1.245752,1.112672,2.459500,0.437200,erratic
+P0133,HFS-FLT-1132,"Strainer basket 32, high flow",filtration,convenience,Coast Range,16.710000,88.780000,10,0.794478,1.967518,1.704100,0.167000,intermittent
+P0134,HFS-ROT-1133,"Shaft sleeve 20, high flow",rotating,line_down,Coast Range,94.120000,86.700000,1,1.440766,0.856519,7.119400,1.536500,erratic
+P0135,HFS-HYD-1134,"Valve spool 40, field kit",hydraulics,convenience,Coast Range,175.010000,153.470000,1,1.461044,0.225522,5.003600,0.468300,smooth
+P0136,HFS-SEN-1135,"Temperature probe 50, low pressure",sensors,degraded,North Basin,208.160000,74.100000,1,0.778537,1.250702,9.225200,0.849000,intermittent
+P0137,HFS-CTL-1136,"Encoder 80, long body",controls,line_down,North Basin,412.250000,109.410000,1,7.843274,1.010491,12.458300,1.081600,smooth
+P0138,HFS-ROT-1137,"Impeller 63, low pressure",rotating,line_down,Coast Range,165.460000,149.590000,1,1.502947,1.099200,5.587000,1.080200,erratic
+P0139,HFS-FLT-1138,"Separator element 63, low pressure",filtration,degraded,Coast Range,36.380000,145.430000,1,1.000322,0.628630,2.151200,0.326300,erratic
+P0140,HFS-PWR-1139,"Power supply 50, high flow",power,line_down,Coast Range,329.650000,132.970000,1,2.457967,0.633835,11.025500,1.481800,smooth
+P0141,HFS-PWR-1140,"Capacitor module 50, flanged",power,degraded,Interior Plain,428.850000,102.120000,1,1.742475,0.252435,9.993700,1.477800,smooth
+P0142,HFS-HYD-1141,"Hose assembly 80, flanged",hydraulics,convenience,Coast Range,345.400000,86.640000,1,3.059275,0.669472,5.302600,0.480900,smooth
+P0143,HFS-PWR-1142,"Contactor 50, flanged",power,degraded,Interior Plain,623.960000,48.440000,1,1.270818,1.032024,7.311700,1.291400,erratic
+P0144,HFS-SEN-1143,"Pressure transducer 40, low pressure",sensors,degraded,Interior Plain,159.400000,133.370000,1,8.869707,1.698727,8.240600,1.802500,smooth
+P0145,HFS-ROT-1144,"Wear ring 32, high flow",rotating,line_down,Coast Range,176.270000,46.550000,1,1.010388,1.559012,4.316900,0.701300,intermittent
+P0146,HFS-SEN-1145,"Flow sensor 32, low pressure",sensors,convenience,Interior Plain,316.300000,103.010000,1,8.527177,1.995533,7.006700,1.453100,smooth
+P0147,HFS-HYD-1146,"Hose assembly 63, threaded",hydraulics,degraded,Interior Plain,485.230000,46.700000,1,2.310936,0.556148,5.396400,0.912500,smooth
+P0148,HFS-PWR-1147,"Drive cooling fan 80, flanged",power,degraded,Interior Plain,271.110000,74.040000,1,1.043226,1.723054,4.015100,0.649500,intermittent
+P0149,HFS-CTL-1148,"I/O module 32, sealed",controls,convenience,Interior Plain,631.980000,154.150000,1,1.474106,0.295112,9.128000,1.931900,smooth
+P0150,HFS-FLT-1149,"Pressure filter 50, flanged",filtration,convenience,Coast Range,16.500000,148.920000,10,4.671015,0.941860,2.003600,0.164000,smooth
+P0151,HFS-SEN-1150,"Pressure transducer 32, flanged",sensors,line_down,Coast Range,250.070000,60.020000,1,1.878679,3.143810,5.085000,0.978600,intermittent
+P0152,HFS-CTL-1151,"Wire harness 50, threaded",controls,line_down,North Basin,158.580000,58.350000,4,0.877638,0.698853,10.804800,1.584800,erratic
+P0153,HFS-FLT-1152,"Breather 40, field kit",filtration,line_down,Coast Range,41.610000,61.070000,12,0.491195,0.930178,1.369400,0.159800,intermittent
+P0154,HFS-SEN-1153,"Level switch 32, high flow",sensors,line_down,North Basin,210.610000,145.110000,1,1.697912,1.502983,8.706700,1.628100,erratic
+P0155,HFS-CTL-1154,"Relay board 80, high flow",controls,convenience,Interior Plain,338.540000,56.430000,1,0.757160,1.122152,11.205200,2.393500,intermittent
+P0156,HFS-FLT-1155,"Return filter 50, low pressure",filtration,degraded,Interior Plain,19.400000,148.260000,1,1.935413,0.558237,1.918100,0.328200,smooth
+P0157,HFS-SEN-1156,"Level switch 50, sealed",sensors,convenience,Interior Plain,80.980000,67.000000,1,2.246111,1.475794,6.719500,1.050300,erratic
+P0158,HFS-HYD-1157,"Cylinder seal kit 50, low pressure",hydraulics,line_down,Coast Range,1142.150000,95.270000,1,2.888889,0.535184,3.718400,0.661200,smooth
+P0159,HFS-PWR-1158,"Braking resistor 20, long body",power,degraded,North Basin,357.870000,146.790000,1,0.170373,0.291139,9.086500,1.880200,intermittent
+P0160,HFS-FLT-1159,"Separator element 40, sealed",filtration,convenience,North Basin,40.600000,136.460000,12,2.948574,0.449030,2.292700,0.263700,smooth
+P0161,HFS-CTL-1160,"Wire harness 40, high flow",controls,degraded,Interior Plain,561.720000,119.220000,1,5.828074,1.169245,12.078100,1.801800,smooth
+P0162,HFS-ROT-1161,"Wear ring 80, sealed",rotating,line_down,Interior Plain,307.450000,88.950000,1,1.244911,2.599884,7.027200,1.253900,intermittent
+P0163,HFS-PWR-1162,"Contactor 80, threaded",power,line_down,Coast Range,393.300000,76.500000,1,3.432616,1.032010,8.497000,1.652200,smooth
+P0164,HFS-ROT-1163,"Coupling insert 40, flanged",rotating,degraded,North Basin,342.570000,48.760000,1,0.204757,0.452824,7.767000,0.935200,intermittent
+P0165,HFS-PWR-1164,"Braking resistor 20, long body",power,degraded,Interior Plain,307.510000,68.610000,1,3.276612,0.476416,9.310200,0.791400,smooth
+P0166,HFS-PWR-1165,"Braking resistor 50, low pressure",power,line_down,Interior Plain,96.730000,64.490000,1,6.466947,1.513332,4.993500,0.829100,smooth
+P0167,HFS-SEN-1166,"Level switch 32, threaded",sensors,degraded,Coast Range,330.760000,66.470000,1,1.801879,1.094093,6.376000,1.229800,erratic
+P0168,HFS-ROT-1167,"Shaft sleeve 20, flanged",rotating,convenience,Coast Range,197.860000,130.010000,1,0.872617,0.486064,8.077600,1.378200,erratic
+P0169,HFS-ROT-1168,"Impeller 80, short body",rotating,convenience,North Basin,234.360000,146.140000,1,2.189626,0.676515,6.595400,0.950700,smooth
+P0170,HFS-SEN-1169,"Level switch 80, long body",sensors,convenience,Interior Plain,718.410000,134.350000,1,8.926355,1.666790,9.027300,1.059800,smooth
+P0171,HFS-ROT-1170,"Shaft sleeve 63, flanged",rotating,degraded,Interior Plain,101.020000,137.060000,1,7.539494,1.081862,7.139100,1.455000,smooth
+P0172,HFS-PWR-1171,"Capacitor module 80, field kit",power,degraded,Coast Range,288.880000,132.370000,1,0.733666,1.014357,6.844800,1.162400,intermittent
+P0173,HFS-CTL-1172,"Encoder 50, threaded",controls,line_down,North Basin,147.430000,60.860000,1,12.434947,2.246301,10.694800,1.234600,smooth
+P0174,HFS-HYD-1173,"Pump cartridge 20, high flow",hydraulics,degraded,North Basin,555.640000,139.420000,1,4.084399,0.933797,4.670900,0.512300,smooth
+P0175,HFS-PWR-1174,"Power supply 20, high flow",power,degraded,Coast Range,170.980000,78.650000,1,2.550255,0.476960,5.693400,0.504700,smooth
+P0176,HFS-CTL-1175,"Encoder 32, field kit",controls,degraded,Interior Plain,489.420000,107.120000,1,3.959982,0.809786,11.433000,1.689700,smooth
+P0177,HFS-PWR-1176,"Power supply 40, short body",power,line_down,Interior Plain,418.580000,103.270000,1,4.647385,1.022768,10.953900,1.808900,smooth
+P0178,HFS-CTL-1177,"Display unit 80, long body",controls,line_down,Interior Plain,323.440000,45.170000,1,9.207381,2.125265,9.522700,0.776400,smooth
+P0179,HFS-FLT-1178,"Return filter 40, sealed",filtration,convenience,Coast Range,10.290000,135.300000,1,6.367199,0.826185,2.165900,0.200300,smooth
+P0180,HFS-SEN-1179,"Level switch 63, short body",sensors,degraded,Coast Range,138.840000,156.520000,1,2.267626,1.499480,4.344700,0.764600,erratic
+P0181,HFS-HYD-1180,"Pump cartridge 20, low pressure",hydraulics,degraded,North Basin,145.090000,108.530000,1,0.750617,1.151658,2.378000,0.452900,intermittent
+P0182,HFS-CTL-1181,"Relay board 80, threaded",controls,line_down,North Basin,2058.000000,123.190000,1,1.910898,1.542648,6.284100,0.781600,erratic
+P0183,HFS-PWR-1182,"Capacitor module 40, low pressure",power,degraded,Coast Range,288.200000,59.750000,1,0.283509,0.559321,7.680100,1.419600,intermittent
+P0184,HFS-CTL-1183,"Relay board 32, short body",controls,line_down,Interior Plain,249.360000,116.290000,1,4.206885,1.341778,8.306700,1.272500,smooth
+P0185,HFS-HYD-1184,"Charge-pump rotor 50, sealed",hydraulics,degraded,Coast Range,265.210000,110.740000,1,0.350767,0.325271,6.834200,1.099100,erratic
+P0186,HFS-SEN-1185,"Pressure transducer 32, low pressure",sensors,degraded,Coast Range,141.980000,128.790000,1,3.415320,0.487534,6.020600,0.878600,smooth
+P0187,HFS-ROT-1186,"Wear ring 40, threaded",rotating,convenience,Interior Plain,164.520000,97.450000,1,4.943590,1.132456,6.452500,0.648000,smooth
+P0188,HFS-HYD-1187,"Hose assembly 32, sealed",hydraulics,degraded,Interior Plain,906.400000,117.710000,1,1.077371,1.762048,6.426400,1.360200,intermittent
+P0189,HFS-FLT-1188,"Strainer basket 50, low pressure",filtration,convenience,Interior Plain,22.400000,52.860000,5,2.725260,0.659633,1.595700,0.225300,smooth
+P0190,HFS-FLT-1189,"Return filter 63, short body",filtration,degraded,Coast Range,22.210000,104.380000,1,4.626243,0.898502,2.106700,0.376800,smooth
+P0191,HFS-FLT-1190,"Separator element 80, sealed",filtration,degraded,Coast Range,23.750000,123.390000,1,1.092925,0.702488,2.299400,0.200500,erratic
+P0192,HFS-PWR-1191,"Power supply 32, field kit",power,line_down,Interior Plain,315.400000,136.280000,1,1.038515,0.822649,8.422100,1.788500,erratic
+P0193,HFS-FLT-1192,"Return filter 20, high flow",filtration,convenience,North Basin,15.340000,53.370000,10,0.587046,1.550650,2.052500,0.355100,intermittent
+P0194,HFS-FLT-1193,"Breather 50, low pressure",filtration,convenience,North Basin,38.880000,129.490000,5,5.274277,0.770078,2.864700,0.327800,smooth
+P0195,HFS-PWR-1194,"Capacitor module 50, high flow",power,convenience,Coast Range,540.750000,141.730000,1,1.184225,0.771954,10.947200,1.936200,erratic
+P0196,HFS-HYD-1195,"Charge-pump rotor 20, field kit",hydraulics,degraded,North Basin,336.680000,137.620000,1,0.000000,0.000000,3.204100,0.580800,inactive
+P0197,HFS-SEN-1196,"Level switch 20, low pressure",sensors,degraded,North Basin,49.290000,64.710000,1,3.937844,1.128878,7.643000,0.637300,smooth
+P0198,HFS-HYD-1197,"Hose assembly 50, field kit",hydraulics,degraded,Coast Range,191.920000,126.650000,1,2.716419,2.052917,3.989900,0.650300,erratic
+P0199,HFS-HYD-1198,"Hose assembly 20, sealed",hydraulics,degraded,North Basin,463.150000,71.680000,1,0.000000,0.000000,3.876100,0.757500,inactive
+P0200,HFS-CTL-1199,"Wire harness 40, low pressure",controls,line_down,Interior Plain,308.640000,141.060000,1,1.735828,0.958242,9.660500,1.197500,erratic
